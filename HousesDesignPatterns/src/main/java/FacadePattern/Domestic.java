@@ -7,3 +7,4 @@ public class Domestic implements House {
 	}
 
 }
+
